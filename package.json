@@ -1,14 +1,20 @@
 {
-  "name": "movie",
+  "name": "rframework",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author":"ashutosh chandra",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
+  "keywords": [
+    "rframework",
+    "reactive-framework",
+    "react-vite framework"
+  ],
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
